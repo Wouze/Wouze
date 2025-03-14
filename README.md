@@ -27,7 +27,7 @@
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Top 20 National Finals | Huawei ICT</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Huawei</h5>
-          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Award</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-12</h6>
         </div>
         <a>
@@ -40,8 +40,77 @@
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">2nd Place KSU Big O's Competitive Programing</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Award</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-05</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">KSU Big O's Competitive Programing Training</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-05</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+            </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;"> Technical Support Fundamentals | Google</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Coursera</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-04</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+            </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">2nd Place OpenData Hackathon</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OpenData</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Hackathon</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-03</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+            </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">KSU Hackathon</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Hackathon</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-05</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+            </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate of participation</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Google student club</h5>
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participation</h5>
-          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-12</h6>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-10</h6>
         </div>
         <a>
           <img src="https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2" 
