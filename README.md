@@ -203,3 +203,250 @@
   </tbody>
 </table>
 </div>
+
+
+
+
+
+
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+
+## <div align="center">🖥️ Programming Languages</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br><strong>Python</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=C" width="65" height="65" alt="C"/><br><strong>C</strong>
+      </td>
+      <td>
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br><strong>C++</strong>
+      </td>
+      <td>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/><br><strong>JavaScript</strong>
+      </td>
+      <td>
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java"/><br><strong>Java</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=godot" width="65" height="65" alt="gdScript"/><br><strong>gdScript</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=rust" width="65" height="65" alt="rust"/><br><strong>rust</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🌐 Web Development</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=flutter" width="65" height="65" alt="Flutter"/><br><strong>Flutter</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br><strong>Flask</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=HTML" width="65" height="65" alt="HTML"/><br><strong>HTML</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=CSS" width="65" height="65" alt="CSS"/><br><strong>CSS</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap"/><br><strong>bootstrap</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🚀 Backend & Frameworks</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br><strong>Python</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=godot" width="65" height="65" alt="Godot"/><br><strong>Godot</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=unity" width="65" height="65" alt="Unity"/><br><strong>Unity</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nginx" width="65" height="65" alt="nginx"/><br><strong>nginx</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🤖 Chips (SBC's)</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://i.postimg.cc/mDwBRDVW/images.png" width="65" height="65" alt="Arduino"/><br><strong>Arduino</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="65" height="65" alt="Raspberry PI"/><br><strong>Raspberry PI</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🔧 DevOps & Cloud</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker"/><br><strong>Docker</strong>
+      </td>
+      <td>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub"/><br><strong>GitHub</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=heroku" width="65" height="65" alt="heroku"/><br><strong>heroku</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=netlify" width="65" height="65" alt="Netlify"/><br><strong>Netlify</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="aws"/><br><strong>aws</strong>
+      </td>
+        <td>
+        <img src="https://i.postimg.cc/2SPKqwMz/download.jpg" width="65" height="65" alt="Fly.io"/><br><strong>Fly.io</strong>
+      </td>
+    </tr>
+    <tr>
+        <td>
+        <img src="https://i.postimg.cc/rFHhbj8S/download.png" width="65" height="65" alt="Google Colab"/><br><strong>Google colab</strong>
+      </td>
+        <td>
+        <img src="https://i.postimg.cc/FzsWtndx/download.png" width="65" height="65" alt="OVH"/><br><strong>OVH</strong>
+      </td>
+      <td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">💾 Databases</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="sqlite"/><br><strong>sqlite</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="supabase"/><br><strong>supabase</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="postgres"/><br><strong>postgres</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🤖 AI & Machine Learning</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://i.postimg.cc/26BMT0Kf/download-8.png" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
+      </td>
+      <td>
+  <img src="Animation - 1734183175462.gif" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/28hDwSBK/download-9.png" width="65" height="65" alt="GPT"/><br><strong>GPT</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow"/><br><strong>tensorflow</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch"/><br><strong>pytorch</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## <div align="center">🛠️ Development Tools</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code"/><br><strong>VS Code</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="65" height="65" alt="Visual Studio"/><br><strong>Visual Studio</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=pycharm" width="65" height="65" alt="pycharm"/><br><strong>pycharm</strong>
+      </td>  
+      <td>
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="65" height="65" alt="Android Studio"/><br><strong>Android Studio</strong>
+      </td>
+      <td>
+        <img src="https://github.com/user-attachments/assets/88c7b63a-759a-48fb-8828-d291e7bdedd6" width="65" height="65" alt="Office 365 Suite"/><br><strong>Office 365</strong>
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/cHD731CQ/download.png" width="65" height="65" alt="Photopea"/><br><strong>Photopea</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://i.postimg.cc/jdqCWVJh/download.jpg" width="65" height="65" alt="Bootstrap Studio"/><br><strong>Bootstrap Studio</strong>
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/W3P1Txvg/download.png" width="65" height="65" alt="Flutter Flow"/><br><strong>Flutter Flow</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
+## <div align="center">🎨 Design & Multimedia</div>
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://i.postimg.cc/ydVCfKKQ/download.jpg" width="65" height="65" alt="Asprite"/><br><strong>Asprite</strong>
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/JhwkGqB2/download-5.jpg" width="65" height="65" alt="GIMP"/><br><strong>GIMP</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma"/><br><strong>Figma</strong>
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/fRQzdgBm/download-7.jpg" width="65" height="65" alt="Audacity"/><br><strong>Audacity</strong>
+      </td>
+      <td>
+        <img src="https://i.postimg.cc/5tWVCvRM/images.jpg" width="65" height="65" alt="Shotcut"/><br><strong>Shotcut</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+
