@@ -103,8 +103,6 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-    </tr>
-    <tr>
       </td> 
             </td>
         <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
@@ -120,6 +118,8 @@
                style="width: 100%; border-radius: 8px;">
         </a>
       </td> 
+    </tr>
+    <tr>
             </td>
         <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
