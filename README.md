@@ -108,12 +108,91 @@
         <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate of participation</h4>
-          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Google student club</h5>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Google Developer Student Club</h5>
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Participation</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-10</h6>
         </div>
         <a>
           <img src="https://github.com/user-attachments/assets/8339f328-9c8f-4ffd-acd2-c1c438a4a742" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+            </td>
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate of volunteer</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Google Developer Student Club</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Volunteer</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-05</h6>
+        </div>
+        <a>
+          <img src="" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Saudi Competitive programing contest | Online training</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">SCPC</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-10</h6>
+        </div>
+        <a>
+          <img src="" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Saudi Competitive programing contest | Onsite training</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">SCPC</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-10</h6>
+        </div>
+        <a>
+          <img src="" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">مفاتيح سوق العمل</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2021-10</h6>
+        </div>
+        <a>
+          <img src="" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C++ Course</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-02</h6>
+        </div>
+        <a>
+          <img src="" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td> 
+        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C++ Course</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-07</h6>
+        </div>
+        <a>
+          <img src="" 
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
