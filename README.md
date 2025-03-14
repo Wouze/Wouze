@@ -382,6 +382,9 @@
       <td>
         <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="pytorch"/><br><strong>pytorch</strong>
       </td>
+      <td>
+        <img src="https://i.postimg.cc/L4J2GHfw/images.png" width="65" height="65" alt="Deep Seek"/><br><strong>Deep Seek</strong>
+      </td>
     </tr>
   </tbody>
 </table>
