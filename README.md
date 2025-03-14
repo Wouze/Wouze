@@ -220,7 +220,7 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/><br><strong>Python</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=C" width="65" height="65" alt="C"/><br><strong>C</strong>
+        <img src="https://i.postimg.cc/G2Sgknms/C-Programming-Language-svg.png" width="65" height="65" alt="C"/><br><strong>C</strong>
       </td>
       <td>
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C++"/><br><strong>C++</strong>
@@ -256,10 +256,10 @@
         <img src="https://skillicons.dev/icons?i=flask" width="65" height="65" alt="Flask"/><br><strong>Flask</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=HTML" width="65" height="65" alt="HTML"/><br><strong>HTML</strong>
+        <img src="https://i.postimg.cc/Bv4z3Czt/download.jpg" width="65" height="65" alt="HTML"/><br><strong>HTML</strong>
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=CSS" width="65" height="65" alt="CSS"/><br><strong>CSS</strong>
+        <img src="https://i.postimg.cc/bvgBwtXg/download.png" width="65" height="65" alt="CSS"/><br><strong>CSS</strong>
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap"/><br><strong>bootstrap</strong>
@@ -338,7 +338,6 @@
         <td>
         <img src="https://i.postimg.cc/FzsWtndx/download.png" width="65" height="65" alt="OVH"/><br><strong>OVH</strong>
       </td>
-      <td>
     </tr>
   </tbody>
 </table>
@@ -372,7 +371,7 @@
         <img src="https://i.postimg.cc/26BMT0Kf/download-8.png" width="65" height="65" alt="Hugging Face"/><br><strong>Hugging Face</strong>
       </td>
       <td>
-  <img src="Animation - 1734183175462.gif" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
+  <img src="https://i.postimg.cc/NGCvxZzD/images.png" width="65" height="65" alt="Gemini"/><br><strong>Gemini</strong>
       </td>
       <td>
         <img src="https://i.postimg.cc/28hDwSBK/download-9.png" width="65" height="65" alt="GPT"/><br><strong>GPT</strong>
