@@ -31,7 +31,8 @@
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-12</h6>
         </div>
         <a>
-          <img src="" 
+          <img src="![image](https://github.com/user-attachments/assets/66459fd8-37ff-45b3-873e-8db904057b13)
+" 
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
@@ -44,7 +45,8 @@
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-12</h6>
         </div>
         <a>
-          <img src="" 
+          <img src="![image](https://github.com/user-attachments/assets/3dc12ddb-376c-452d-985b-7bd6841db9a2)
+" 
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
