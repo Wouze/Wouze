@@ -3,14 +3,14 @@
   <img src="https://github.com/user-attachments/assets/e56788b3-f978-4e37-ade1-fb60d37cdd31" 
        alt="icon" 
        style="vertical-align:middle; transform:scale(2);">
-  Hi, I'm Mohammad, but you can call me Wouze!
+  Hi, I'm Mohammad!
 </h1>
 
 <h3 align="center">🚀 My Work</h3>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=0080ff&center=true&vCenter=true&width=900&lines=🎮+Freelancer;💻+Enthusiastic+Developer;🤫+Currently+Writing+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=0080ff&center=true&vCenter=true&width=900&lines=🎮+Freelancer;💻+Enthusiastic+Developer;🤫+Currently+Working" alt="Typing SVG" />
 </p>
 
 
@@ -23,7 +23,8 @@
 <table style="border-collapse: separate; border-spacing: 10px; background: #f8fafc; border-radius: 16px; width: 100%;">
   <tbody>
     <tr>
-      <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 1 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Top 20 National Finals | Huawei ICT</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Huawei</h5>
@@ -36,9 +37,10 @@
                style="width: 100%; border-radius: 8px;">
         </a>
       </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 2 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">2nd Place KSU Big O's Competitive Programing</h4>
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">2nd Place KSU Big O's (1st edition) Competitive Programing</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Award</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2023-05</h6>
@@ -48,8 +50,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 3 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">KSU Big O's Competitive Programing Training</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
@@ -61,11 +64,11 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-            </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 4 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
-          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;"> Technical Support Fundamentals | Google</h4>
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Technical Support Fundamentals | Google</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Coursera</h5>
           <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
           <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2022-04</h6>
@@ -75,9 +78,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-            </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 5 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">2nd Place OpenData Hackathon</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">OpenData</h5>
@@ -89,9 +92,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-            </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 6 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">KSU Hackathon</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
@@ -103,9 +106,11 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-            </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 7 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate of participation</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Google Developer Student Club</h5>
@@ -117,11 +122,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-    </tr>
-    <tr>
-            </td>
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 8 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Certificate of volunteer</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Google Developer Student Club</h5>
@@ -133,8 +136,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 9 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Saudi Competitive programing contest | Online training</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">SCPC</h5>
@@ -146,8 +150,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 10 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Saudi Competitive programing contest | Onsite training</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">SCPC</h5>
@@ -159,8 +164,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 11 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">مفاتيح سوق العمل</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
@@ -172,8 +178,9 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 12 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C++ Course</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
@@ -185,8 +192,11 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
-        <td style="width: 20%; padding: 15px; background: white; border-radius: 12px;">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 13 -->
         <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
           <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">C++ Course</h4>
           <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
@@ -198,7 +208,77 @@
                alt="" 
                style="width: 100%; border-radius: 8px;">
         </a>
-      </td> 
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 14 -->
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Drone programming and operation Course</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">Saudi Federation for Cybersecurity, Programming</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-04</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/d14713ff-21dc-4439-b090-0aac8f2eb833" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 15 -->
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">2nd Place KSU Big O's (3rd edition) Competitive Programing</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Award</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-05</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/df1d2e6c-67aa-443d-a118-9cbe79bfc13d" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 16 -->
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">KSU Big O's (3rd edition) Competitive Programing Training</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">KSU</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-05</h6>
+        </div>
+        <a>
+          <img src="" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>      
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 17 -->
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">Saudi International Conference for Pharmaceutical Research and Innovation</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">MSIR</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Award</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-05</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/52d922f2-5358-452a-bdfb-594f68a6e185" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
+      <td style="width: 16.6%; padding: 15px; background: white; border-radius: 12px;">
+        <!-- Certificate 18 -->
+        <div style="border-left: 4px solid #0080ff; padding-left: 10px; margin-bottom: 10px;">
+          <h4 style="color: #0080ff; margin: 0 0 8px 0; font-size: 18px;">PowerBI course</h4>
+          <h5 style="color: #666; margin: 4px 0; font-size: 14px;">O'REILLY</h5>
+          <h5 style="color: #888; margin: 4px 0; font-size: 12px;">Completion</h5>
+          <h6 style="color: #888; margin: 4px 0; font-size: 12px;">2025-05</h6>
+        </div>
+        <a>
+          <img src="https://github.com/user-attachments/assets/d6cf11c7-9187-467a-b1fd-4208a17373d1" 
+               alt="" 
+               style="width: 100%; border-radius: 8px;">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
